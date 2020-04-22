@@ -11,5 +11,5 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/IvLagxd.gifv)
+![](https://i.imgur.com/IvLagxd.gif)
 > 聲效由 K-Touch 讀出「G4，Ryuga，Orga，Glaive，Kabuki，Caucasus，Arc，Skull！Final Kamen Ride：Diend！」
